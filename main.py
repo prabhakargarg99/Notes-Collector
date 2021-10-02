@@ -11,6 +11,8 @@ def destroy_screen3():
 
 
 def saved():
+    print("Note saved!")
+    
     screen10 = Toplevel(screen)
     
     screen10.title("Saved")
